@@ -23,6 +23,3 @@
 
 #include "lunar/luadef.hpp"
 #include "lunar/symbols.hpp"
-
-#include "compat-5.3.h"
-#include "compat-5.4.h"
