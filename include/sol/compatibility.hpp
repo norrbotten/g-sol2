@@ -1,4 +1,4 @@
-// sol3 
+// sol3
 
 // The MIT License (MIT)
 
@@ -29,8 +29,8 @@
 // but has been modified in many places for use with sol and luajit,
 // though the core abstractions remain the same
 
-#include "feature_test.hpp"
 #include "compatibility/version.hpp"
+#include "feature_test.hpp"
 
 #if !defined(SOL_NO_COMPAT) || !(SOL_NO_COMPAT)
 
